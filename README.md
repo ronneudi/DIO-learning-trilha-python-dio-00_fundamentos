@@ -63,5 +63,6 @@ A aplicação deve amarzenar em lista, sendo composta da seguinte forma:
 O número da conta é sequencial, iniciando em 1.
 O número da agência é fixo: `0001`.
 O usuário pode ter mais de uma conta, mas uma conta pertence somente a um usuário.
->[!NOTE]Dica
+
+> [!TIP]
 > Para vincular um usuário a uma conta, filtre a lista de usuários buscando o CPF informado para cada usuário da lista.
